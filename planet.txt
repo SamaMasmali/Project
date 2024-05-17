@@ -1,0 +1,10 @@
+Home planets: 
+Ficus , It is worth 40$
+Bird of Paradise , It is worth 60$
+Spider , It is worth 25$
+Anthurium , It is worth 45$
+Office planets:
+Bonsail , It is worth 50$
+Lily , It is worth 35$
+Succulent , It is worth 70$
+Crispy Wave , It is worth 25$
